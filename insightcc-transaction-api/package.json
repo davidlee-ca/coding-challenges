@@ -1,0 +1,27 @@
+{
+  "name": "insightcc-transaction-api",
+  "version": "1.0.0",
+  "description": "Insight Coding Challenge - Simple Transactions",
+  "main": "src/index.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlee-ca/insightcc-transaction-api.git"
+  },
+  "author": "David Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlee-ca/insightcc-transaction-api/issues"
+  },
+  "homepage": "https://github.com/davidlee-ca/insightcc-transaction-api#readme"
+}
